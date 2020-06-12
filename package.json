@@ -1,0 +1,31 @@
+{
+  "name": "backend-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Seda Koç",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.x",
+    "cors": "^2.8.5",
+    "express": "^4.16.x",
+    "moment": "^2.24.0",
+    "mongodb": "^3.5.8",
+    "mongoose": "^4.3.x",
+    "nconf": "^0.10.x",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "supertest": "^4.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  }
+}
