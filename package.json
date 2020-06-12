@@ -14,7 +14,7 @@
     "express": "^4.16.x",
     "moment": "^2.24.0",
     "mongodb": "^3.5.8",
-    "mongoose": "^4.3.x",
+    "mongoose": "^5.7.x",
     "nconf": "^0.10.x",
     "request": "^2.88.0"
   },
