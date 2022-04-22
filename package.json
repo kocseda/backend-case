@@ -15,7 +15,7 @@
     "moment": "^2.24.0",
     "mongodb": "^3.5.8",
     "mongoose": "^4.3.x",
-    "nconf": "^0.10.x",
+    "nconf": "^0.11.x",
     "request": "^2.88.0"
   },
   "devDependencies": {
